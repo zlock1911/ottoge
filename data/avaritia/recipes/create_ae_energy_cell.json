@@ -1,0 +1,36 @@
+{
+  "type": "avaritia:shaped_extreme_craft",
+  "category": "equipment",
+  "key": {
+    "F": {
+      "item": "ae2:fluix_block"
+    },
+    "D": {
+      "item": "ae2:dense_energy_cell"
+    },
+    "P": {
+      "item": "gtceu:wetware_processor_mainframe"
+    },
+    "N": {
+      "item": "avaritia:neutron"
+    },
+    "A": {
+      "item": "avaritia:neutron_gear"
+    }
+  },
+  "pattern": [
+    "FFFDFDFFF",
+    "FPFDFDFPF",
+    "FFFDFDFFF",
+    "DDDNNNDDD",
+    "FFFNANFFF",
+    "DDDNNNDDD",
+    "FFFDFDFFF",
+    "FPFDFDFPF",
+    "FFFDFDFFF"
+  ],
+  "result": {
+    "item": "ae2:creative_energy_cell"
+  },
+  "show_notification": true
+}

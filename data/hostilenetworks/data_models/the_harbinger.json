@@ -1,0 +1,24 @@
+{
+	"entity": "cataclysm:the_harbinger",
+	"variants": [],
+	"name": "entity.cataclysm.the_harbinger",
+	"name_color": "#5A121B",
+	"gui_scale": 0.6,
+	"gui_x_offset": 0,
+	"gui_y_offset": 0,
+	"gui_z_offset": 0,
+	"sim_cost": 500000,
+	"input": {
+		"item": "otto:enriched_prediction_matrix"
+	},
+	"base_drop": {
+		"item": "hostilenetworks:nether_prediction"
+	},
+	"trivia": "hostilenetworks.the_harbinger",
+	"fabricator_drops": [
+		{
+			"item": "otto:break_quantum_processor",
+			"count": 1
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"entity": "cataclysm:netherite_monstrosity",
+	"variants": [],
+	"name": "entity.cataclysm.netherite_monstrosity",
+	"name_color": "#C0691B",
+	"gui_scale": 0.4,
+	"gui_x_offset": 0,
+	"gui_y_offset": 0,
+	"gui_z_offset": 0,
+	"sim_cost": 60000,
+	"input": {
+		"item": "otto:enriched_prediction_matrix"
+	},
+	"base_drop": {
+		"item": "hostilenetworks:nether_prediction"
+	},
+	"trivia": "hostilenetworks.netherite_monstrosity",
+	"fabricator_drops": [
+		{
+			"item": "otto:break_micro_processor",
+			"count": 1
+		}
+	]
+}

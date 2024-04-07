@@ -1,0 +1,42 @@
+{
+  "type": "avaritia:shaped_extreme_craft",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "otto:gun_ingot"
+    },
+    "B": {
+      "item": "ae2additions:cell_component_65536"
+    },
+    "C": {
+      "tag": "forge:dusts/sulfur"
+    },
+    "D": {
+      "tag": "forge:storage_blocks/gunpowder"
+    },
+    "E": {
+      "tag": "forge:storage_blocks/sulfur"
+    },
+    "F": {
+      "item": "otto:item_alloy_ingot_stellar_alloy"
+    },
+    "G": {
+      "item": "otto:ammo_box"
+    }
+  },
+  "pattern": [
+    "AAAAAAAAA",
+    "ABCDDDCBA",
+    "ACDEEEDCA",
+    "ADEFFFEDA",
+    "ADEFGFEDA",
+    "ADEFFFEDA",
+    "ACDEEEDCA",
+    "ABCDDDCBA",
+    "AAAAAAAAA"
+  ],
+  "result": {
+    "item": "pointblank:ammocreative"
+  },
+  "show_notification": true
+}

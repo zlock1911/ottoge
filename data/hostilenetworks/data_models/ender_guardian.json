@@ -1,0 +1,24 @@
+{
+	"entity": "cataclysm:ender_guardian",
+	"variants": [],
+	"name": "entity.cataclysm.ender_guardian",
+	"name_color": "#4D354D",
+	"gui_scale": 0.6,
+	"gui_x_offset": 0,
+	"gui_y_offset": 0,
+	"gui_z_offset": 0,
+	"sim_cost": 100000,
+	"input": {
+		"item": "otto:enriched_prediction_matrix"
+	},
+	"base_drop": {
+		"item": "hostilenetworks:nether_prediction"
+	},
+	"trivia": "hostilenetworks.ender_guardian",
+	"fabricator_drops": [
+		{
+			"item": "otto:break_nano_processor",
+			"count": 1
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+  "type": "avaritia:shaped_extreme_craft",
+  "category": "equipment",
+  "key": {
+    "B": {
+      "item": "avaritia:infinity"
+    },
+    "P": {
+      "item": "gtceu:wetware_processor_mainframe"
+    },
+    "M": {
+      "item": "avaritia:crystal_matrix"
+    },
+    "C": {
+      "item": "avaritia:infinity_catalyst"
+    },
+    "E": {
+      "item": "avaritia:endest_pearl"
+    },
+    "N": {
+      "item": "avaritia:densest_neutron_collector"
+    },
+    "T": {
+      "item": "otto:time_river"
+    },
+    "A": {
+      "item": "otto:death_sea"
+    }
+  },
+  "pattern": [
+    "BPMCCCMPB",
+    "BPMCCCMPB",
+    "BPMEEEMPB",
+    "BPMNTNMPB",
+    "BPMTATMPB",
+    "BPMNTNMPB",
+    "BPMEEEMPB",
+    "BPMCCCMPB",
+    "BPMCCCMPB"
+  ],
+  "result": {
+    "item": "mekanism:creative_fluid_tank"
+  },
+  "show_notification": true
+}

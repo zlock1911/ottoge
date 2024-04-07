@@ -1,0 +1,36 @@
+{
+  "type": "avaritia:shaped_extreme_craft",
+  "category": "equipment",
+  "key": {
+    "C": {
+      "item": "avaritia:crystal_matrix_ingot"
+    },
+    "I": {
+      "item": "avaritia:infinity_ingot"
+    },
+    "N": {
+      "item": "avaritia:neutron_ingot"
+    },
+    "X": {
+      "item": "avaritia:infinity_catalyst"
+    },
+    "G": {
+      "item": "avaritia:endest_pearl"
+    }
+  },
+  "pattern": [
+    "       II",
+    "      III",
+    "     III ",
+    "    III  ",
+    " CGIII   ",
+    "  CII    ",
+    "  NCG    ",
+    " N  C    ",
+    "X        "
+  ],
+  "result": {
+    "item": "avaritia:infinity_sword"
+  },
+  "show_notification": true
+}
