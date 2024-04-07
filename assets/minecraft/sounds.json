@@ -1,0 +1,21 @@
+{
+    "gachi.gachi.wu": {
+        "sounds": [
+            "gachi/wu"
+        ],
+        "subtitle": "gachi.gachi.wu"
+    },
+    "gachi.gachi.upright": {
+        "sounds": [
+            "gachi/upright"
+        ],
+        "subtitle": "gachi.gachi.upright"
+    },
+    "gachi.gachi.why_dont_you_give_up": {
+        "sounds": [
+            "gachi/why_dont_you_give_up"
+        ],
+        "subtitle": "gachi.gachi.why_dont_you_give_up"
+    }
+
+}

@@ -1,0 +1,12 @@
+{
+    "gtceu.jei.ore_vein.fluorite_vein": "氟石矿脉",
+    "gtceu.jei.ore_vein.osmium_vein": "锇矿脉",
+    "gtceu.jei.ore_vein.all_quartz_vein": "石英矿脉",
+    "gtceu.jei.ore_vein.not_gt_uranium_vein": "铀矿脉[NOT GT]",
+    "block.gtceu.mega_fusion_reactor": "大型核聚变反应堆",
+    "block.gtceu.star_forge": "锻星熔炉",
+
+    "gtceu.mega_fusion_reactor":"大型核聚变反应堆",
+    "gtceu.star_forge":"锻星熔炉"
+
+}

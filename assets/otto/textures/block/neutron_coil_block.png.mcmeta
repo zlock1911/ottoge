@@ -1,0 +1,5 @@
+{
+  "ldlib": {
+    "connection": "otto:block/neutron_coil_block_ctm"
+  }
+}
